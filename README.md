@@ -116,8 +116,7 @@ streamlit run app.py
 
 **Run full analysis:**
 ```bash
-python climate_eda_analysis.py
-```
+python Untitled.ipynb```
 
 Output: 9 visualizations + 3 reports + cleaned dataset
 
@@ -135,9 +134,7 @@ streamlit>=1.28.0
 scipy>=1.10.0
 ```
 
-[![GitHub](https://img.shields.io/badge/GitHub-View_Code-black?logo=github)](https://github.com/yourusername/climate-eda)
-[![Demo](https://img.shields.io/badge/Demo-Try_Now-brightgreen?logo=streamlit)](https://your-demo-link.com)
-
 ---
 
 *Made for Deep Data Hackathon 2.0 | October 2025* 🚀
+
